@@ -22,8 +22,7 @@ The file icosphere.m should be downloaded from this link and placed in the
 folder /codes/ 
 
 ## Contact Information
-If you encounter issues or have questions, please contact me at 
-SOH_YONG_SHENG@IHPC.A-STAR.EDU.SG
+If you encounter issues or have questions, please contact me 
 
 ## References
 Finally, the CT scan is derived from the following online source:
